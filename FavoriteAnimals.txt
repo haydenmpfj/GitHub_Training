@@ -2,3 +2,5 @@ Tiger
 Snail
 Dragon
 Unicorn
+Dog
+Penguin
